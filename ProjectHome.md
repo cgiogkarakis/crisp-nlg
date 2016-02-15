@@ -1,0 +1,1 @@
+This project hosts the code for my NLG system that internally uses a planner.  In particular, some of this code is a planner.
